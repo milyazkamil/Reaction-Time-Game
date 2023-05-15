@@ -1,24 +1,3 @@
-# Reaction-Time-Game
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Reaction Time Game
+## The reaction time game is a great way to have some fun while improving your hand-eye coordination and focusing skills.
+### [Preview website](https://milyazkamil.github.io/Reaction-Time-Game/)
